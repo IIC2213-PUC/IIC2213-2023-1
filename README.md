@@ -45,7 +45,7 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
 
 | Nombre  | Cargo | Email | Github |
 | :-------------- | :------ | :---------------- | : ----------- |
-| Sebastián Bugedo | Profe  | bugedo@uc.cl | [@seba-bug](https://github.com/seba-bug|
+| Sebastián Bugedo | Profe  | bugedo@uc.cl | [@seba-bug](https://github.com/seba-bug) |
 | Sofía Errázuriz | Ayudante coordinadora  | sofiaerrazurizm@uc.cl | |
 | Sebastián Hagedorn | Ayudante   | shagedorn@uc.cl | |
 | Julián García | Ayudante   | jgarcg@uc.cl | |
@@ -70,7 +70,7 @@ Habrá 7 tareas que buscan evaluar el avance de los contenidos del curso. Estas 
 
 | Evaluación | Fecha Publicacion  | Fecha Entrega      | Plazo (días completos) |
 | :--------- | :----------------- | :----------------- | : -- |
-| Tarea 1    | Martes 14 de marzo | Lunes 27 de marzo | 13|
+| Tarea 1    | Martes 14 de marzo | Lunes 27 de marzo | 13 |
 | Tarea 2    | Martes 28 de marzo    | Miércoles 5 de abril    | 8 |
 | Tarea 3    | Martes 11 de abril  | Martes 25 de abril  | 14 |
 | Tarea 4    | Martes 9 de mayo  | Lunes 22 de mayo  | 13 |
