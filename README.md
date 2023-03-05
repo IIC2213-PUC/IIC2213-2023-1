@@ -6,7 +6,7 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
 
 ## Tabla de contenidos
 
-- [IIC2133 - Estructuras de Datos y Algoritmos](#iic2213---logica-para-ciencia-de-la-computacion)
+- [IIC2213 - Lógica para ciencia de la computación](#iic2213---lógica-para-ciencia-de-la-computación)
   - [2023-1](#2023-1)
   - [Tabla de contenidos](#tabla-de-contenidos)
   - [Tareas](#tareas)
@@ -15,7 +15,7 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
   - [Equipo](#equipo)
   - [Evaluación](#evaluación)
     - [Evaluaciones Escritas](#evaluaciones-escritas)
-    - [Tareas](#tareas)
+    - [Tareas](#tareas-1)
   - [Política de Atrasos](#política-de-atrasos)
   - [Política de integridad académica](#política-de-integridad-académica)
 
@@ -31,20 +31,20 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
 ## Clases
 
 |   Tipo    | Número | Tema | Fecha | Sección 1  |
-| :-------: | :----: | :------------------------------------------: | :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | 
+| ------- |---- | ------------------------------------------ | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
 | Cátedra | 0 | Introducción | 2023-03-07 | aquí va el link |
 
   ## Ayudantías
 
 |   Tipo    | Número | Tema | Encargade | Material   |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | Ayudantía | 0 | Sintaxis y semántica en lógica proposicional | Quién la hace | aquí va el link |
 
 
 ## Equipo
 
 | Nombre  | Cargo | Email | Github |
-| :-------------- | :------ | :---------------- | : ----------- |
+| -------------- | ------ | ---------------- | ----------- |
 | Sebastián Bugedo | Profe  | bugedo@uc.cl | [@seba-bug](https://github.com/seba-bug) |
 | Sofía Errázuriz | Ayudante coordinadora  | sofiaerrazurizm@uc.cl | |
 | Sebastián Hagedorn | Ayudante   | shagedorn@uc.cl | |
@@ -59,7 +59,7 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
 Habrá un único examen escrito que busca evaluar los contenidos esenciales del curso: _Lo que no puede faltar en un estudiante que aprueba el curso._
 
 | Evaluación | Fecha |
-| :-------------- | :--------- |
+| -------------- | --------- |
 | Examen | 3 de julio (9:00) |
 
 ### Tareas
@@ -68,15 +68,15 @@ Habrá 7 tareas que buscan evaluar el avance de los contenidos del curso. Estas 
 
 
 
-| Evaluación | Fecha Publicacion  | Fecha Entrega      | Plazo (días completos) |
-| :--------- | :----------------- | :----------------- | : -- |
-| Tarea 1    | Martes 14 de marzo | Lunes 27 de marzo | 13 |
-| Tarea 2    | Martes 28 de marzo    | Miércoles 5 de abril    | 8 |
-| Tarea 3    | Martes 11 de abril  | Martes 25 de abril  | 14 |
-| Tarea 4    | Martes 9 de mayo  | Lunes 22 de mayo  | 13 |
-| Tarea 5    | Martes 23 de mayo  | Lunes 5 de junio  | 13 |
-| Tarea 6    | Martes 6 de junio  | Lunes 19 de junio  | 13 |
-| Tarea 7    | Martes 20 de junio  | Viernes 30 de junio  | 10 |
+| Evaluación | Fecha Publicacion  | Fecha Entrega        | Plazo (días completos) |
+| --------- | ----------------- | -----------------   |  -- |
+| Tarea 1    | Martes 14 de marzo | Lunes 27 de marzo    | 13 |
+| Tarea 2    | Martes 28 de marzo | Miércoles 5 de abril | 8 |
+| Tarea 3    | Martes 11 de abril | Martes 25 de abril   | 14 |
+| Tarea 4    | Martes 9 de mayo   | Lunes 22 de mayo     | 13 |
+| Tarea 5    | Martes 23 de mayo  | Lunes 5 de junio     | 13 |
+| Tarea 6    | Martes 6 de junio  | Lunes 19 de junio    | 13 |
+| Tarea 7    | Martes 20 de junio | Viernes 30 de junio  | 10 |
 
 La publicación será el día indicado, luego de la cátedra. La entrega será a las 23:59 del día indicado. Además se especifica la cantidad de días enteros (de 24 horas) de los que disponen para resolver cada tarea. ¡Planifiquen bien su tiempo!
 
