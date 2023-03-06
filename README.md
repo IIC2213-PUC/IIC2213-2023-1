@@ -30,9 +30,9 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
 
 ## Clases
 
-|   Tipo    | Número | Tema | Fecha | Sección 1  |
+|   Tipo    | Número | Tema | Fecha | Diapositivas  |
 | ------- |---- | ------------------------------------------ | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
-| Cátedra | 0 | Introducción | 2023-03-07 | aquí va el link |
+| Cátedra | 0 | Introducción y lógica proposicional | 2023-03-07 | aquí va el link |
 
   ## Ayudantías
 
@@ -80,43 +80,10 @@ Habrá 7 tareas que buscan evaluar el avance de los contenidos del curso. Estas 
 
 La publicación será el día indicado, luego de la cátedra. La entrega será a las 23:59 del día indicado. Además se especifica la cantidad de días enteros (de 24 horas) de los que disponen para resolver cada tarea. ¡Planifiquen bien su tiempo!
 
-La nota 
 
-La nota final del curso se calcula de la siguiente manera:
-
-```c++
-double nota_final() {
-  /* La nota de cada tarea */
-  double T0, T1, T2, T3;
-  /* La nota de cada interrogación*/
-  double I1, I2, I3;
-
-  /* Promedio de tareas */
-  double NT = 0.20 * T0 + 0.30 * T1 + 0.25 * T2 + 0.25 * T3;
-  /* Promedio de interrogaciones */
-  double NI = 0.25 * I1 + 0.30 * I2 + 0.45 * I3;
-
-  /* Nota final */
-  double NF = (NT + NI) / 2;
-
-  /* Es necesario tener sobre 3.7 en las evaluaciones escritas y las tareas por separado para aprobar el curso */
-  if (NI < 3.7 || NT < 3.7) {
-    return min(3.9, NF);
-  } else {
-    return min(NF, 7);
-  }
-}
-```
 
 ## Política de Atrasos
 
-La formula de atrasos es la siguiente:
-
-```c++
-  double nota_con_atraso(double nota, int dias_de_atraso){
-    return max(1.0, nota - 0.7 * dias_de_atraso**1.3);
-  }
-```
 
 ## Política de integridad académica
 
