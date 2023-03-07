@@ -16,7 +16,7 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
   - [Evaluación](#evaluación)
     - [Evaluaciones Escritas](#evaluaciones-escritas)
     - [Tareas](#tareas-1)
-  - [Política de Atrasos](#política-de-atrasos)
+  - [Programa y administración](#programa-y-administración)
   - [Política de integridad académica](#política-de-integridad-académica)
 
 
@@ -82,8 +82,9 @@ La publicación será el día indicado, luego de la cátedra. La entrega será a
 
 
 
-## Política de Atrasos
+## Programa y administración
 
+Pueden consultar ponderaciones, condiciones de entrega y política de atrasos en el programa del curso, disponible en AQUI
 
 ## Política de integridad académica
 
