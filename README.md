@@ -30,15 +30,15 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
 
 ## Clases
 
-|   Tipo    | Número | Tema | Fecha | Diapositivas  |
-| ------- |---- | ------------------------------------------ | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
-| Cátedra | 0 | Introducción y lógica proposicional | 2023-03-07 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class00%20-%20Introducci%C3%B3n%20y%20l%C3%B3gica%20proposicional.pdf) |
+| Número | Tema | Fecha | Diapositivas  |
+|---- | ------------------------------------------ | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
+| 0 | Introducción y lógica proposicional | 2023-03-07 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class00%20-%20Introducci%C3%B3n%20y%20l%C3%B3gica%20proposicional.pdf) |
 
   ## Ayudantías
 
-|   Tipo    | Número | Tema | Fecha | Encargade | Material   |
-| --- | --- | --- | --- | --- | --- |
-| Ayudantía | 1 | Lógica proposicional y consecuencia lógica | 2023-03-17 | Quién la hace | aquí va el link |
+| Número | Tema | Fecha | Encargade | Material   |
+| --- | --- | --- | --- | --- |
+| 1 | Lógica proposicional y consecuencia lógica | 2023-03-17 | Quién la hace | aquí va el link |
 
 
 ## Equipo
