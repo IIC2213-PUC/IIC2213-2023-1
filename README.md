@@ -33,7 +33,7 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
 | Número | Tema | Fecha | Diapositivas  |
 |---- | ------------------------------------------ | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
 | 0 | Introducción y lógica proposicional | 2023-03-07 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class00%20-%20Introducci%C3%B3n%20y%20l%C3%B3gica%20proposicional.pdf) |
-| 1 | Bases de conocimiento y razonamiento | 2023-03-14 | [Láminas]() |
+| 1 | Bases de conocimiento y razonamiento | 2023-03-14 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class01%20-%20Bases%20de%20conocimiento%20y%20razonamiento.pdf) |
 
   ## Ayudantías
 
