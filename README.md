@@ -23,7 +23,7 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
 ## Tareas
 
 - T1
-  - Contenidos: 
+  - Contenidos: Sintaxis, semántica y consecuencia lógica en L(P)
   - Enunciado
   - Recursos adicionales
   - Pauta
@@ -33,12 +33,13 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
 | Número | Tema | Fecha | Diapositivas  |
 |---- | ------------------------------------------ | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
 | 0 | Introducción y lógica proposicional | 2023-03-07 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class00%20-%20Introducci%C3%B3n%20y%20l%C3%B3gica%20proposicional.pdf) |
+| 1 | Bases de conocimiento y razonamiento | 2023-03-14 | [Láminas]() |
 
   ## Ayudantías
 
 | Número | Tema | Fecha | Encargade | Material   |
 | --- | --- | --- | --- | --- |
-| 1 | Lógica proposicional y consecuencia lógica | 2023-03-17 | Quién la hace | aquí va el link |
+| 1 | Lógica proposicional y consecuencia lógica | 2023-03-17 | Julián García | aquí va el link |
 
 
 ## Equipo
