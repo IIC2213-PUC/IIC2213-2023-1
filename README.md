@@ -24,9 +24,8 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
 
 - T1
   - Contenidos: Sintaxis, semántica y consecuencia lógica en L(P)
-  - Enunciado
-  - Recursos adicionales
-  - Pauta
+  - [Enunciado](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/tareas/tarea1.pdf)
+  - Pauta (Próximamente)
 
 ## Clases
 
