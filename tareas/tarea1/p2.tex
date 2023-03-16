@@ -1,0 +1,23 @@
+%!TEX root = tarea1.tex
+
+Una {\em cláusula de Horn} es una cláusula que tiene a lo más un
+literal positivo. Por ejemplo $\neg p$, $(\neg p \vee \neg q)$ y $(p \vee
+\neg q \vee \neg r \vee \neg s)$ son todas cláusulas de Horn, mientras
+que $(p \vee q \vee \neg r)$ no es una cláusula de Horn porque tiene
+dos literales positivos. Decimos que una fórmula es una \textit{fórmula de Horn} si es una conjunción de cláusulas de Horn.\medskip 
+
+Dadas dos valuaciones $\sigma_1,\sigma_2:\cL(P)\rightarrow\{0,1\}$, se define la valuación $\sigma_1\wedge\sigma_2:\cL(P)\rightarrow\{0,1\}$ como aquella que, para cualquier fórmula atómica $p\in P$, asigna el valor 
+    $$\sigma_1\wedge\sigma_2(p)=\min\{\sigma_1(p),\sigma_2(p)\}$$
+Por ejemplo, si consideramos $P=\{p,q\}$, con valuaciones $\sigma_1(p)=\sigma_1(q)=1$, $\sigma_2(p)=1$ y $\sigma_2(q)=0$, se tiene $\sigma_1\wedge\sigma_2(p)=1$ y $\sigma_1\wedge\sigma_2(q)=0$, con lo cual $\sigma_1\wedge\sigma_2(p\rightarrow q)=0$.
+\begin{enumerate}[label=(\alph*)]
+    \item  Demuestre que si $\varphi$ es una cláusula de Horn, entonces
+     $$\text{si }\sigma_1(\varphi)=1\text{ y }\sigma_2(\varphi)=1\text{, entonces }\sigma_1\wedge\sigma_2(\varphi)=1$$
+     \item Demuestre que si una fórmula $\psi$ es equivalente a una fórmula de Horn, entonces
+     $$\text{si }\sigma_1(\psi)=1\text{ y }\sigma_2(\psi)=1\text{, entonces }\sigma_1\wedge\sigma_2(\psi)=1$$
+     \textit{Hint:} defina las fórmulas de Horn inductivamente. Además, puede responder este inciso asumiendo demostrado el resultado de (a).
+     \item Demuestre que existe una fórmula que no es equivalente a ninguna fórmula de Horn. 
+     
+     \textit{Hint:} puede responder este inciso asumiendo demostrado el resultado de (b).
+\end{enumerate}
+
+% Demuestre que existe una fórmula proposicional que no es equivalente a ninguna fórmula de Horn.

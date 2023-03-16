@@ -1,0 +1,104 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english, spanish]{babel}
+%\usepackage[dvips]{graphics}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{fullpage}
+\usepackage{epsfig}
+\usepackage{multicol}
+\usepackage{wasysym}
+\usepackage{tikz}
+\usepackage{graphicx}
+\usepackage{mathtools}
+\usepackage{enumitem}
+
+\usetikzlibrary{arrows,decorations.pathmorphing,backgrounds,positioning,fit,calc,automata}
+\usetikzlibrary{decorations.pathreplacing}
+\usetikzlibrary{trees}
+\usetikzlibrary{shapes}
+\usetikzlibrary{chains}
+\usetikzlibrary{patterns}
+\usetikzlibrary{matrix}
+%\usepackage{stackengine}
+
+
+%\usepackage[usenames,dvipsnames]{xcolor}
+%\usepackage{hyperref}
+%\definecolor{linkcolour}{rgb}{0,0.2,0.6}
+%\hypersetup{colorlinks,breaklinks,urlcolor=linkcolour,linkcolor=linkcolour}
+
+\parindent 0pt
+%\parskip 0pt
+
+\newcommand{\cL}{\mathcal{L}}
+
+\begin{document}
+
+\includegraphics[width=2cm]{uc.png}
+\vspace*{-1.9cm}
+
+\hspace*{2.1cm}
+ \begin{tabular}{l}
+  \sc Pontificia Universidad Católica de Chile \\
+  \sc Escuela de Ingeniería \\
+  \sc Departamento de Ciencia de la Computación
+  %\vspace{15\baselineskip}\mbox{}
+  %\vspace{-3mm}\mbox{}
+ \end{tabular}
+ \bigskip
+
+\vspace*{5mm}
+\begin{center}
+{IIC2213 --- Lógica para ciencia de la computación --- 1' 2023} \\
+\vspace{3mm}
+{\Large\bf TAREA 1} \\
+\vspace{2mm}
+\end{center}
+
+\begin{tabular}{ll}
+Publicación: & Martes 14 de marzo. \\
+Entrega: & \textbf{Lunes 27 de marzo hasta las 23:59 horas}. \\
+\end{tabular}
+
+\subsection*{Indicaciones}
+
+\begin{itemize}
+\item Cada pregunta tiene 6 puntos ($+1$ base) y la nota de la tarea es el promedio de  las preguntas.
+\item Todos los incisos de una pregunta pregunta tienen el mismo puntaje.
+\item Cada solución debe estar escrita en \LaTeX. No se aceptarán tareas escritas de otra forma.
+\item La tarea es individual, pudiendo discutirla con sus pares. Toda referencia externa debe citarse.
+\end{itemize}
+
+\subsection*{Objetivos}
+Esta tarea busca evaluar si el estudiante es capaz de
+\begin{itemize}
+    \item Definir inductivamente propiedades/objetos en $\cL(P)$
+    \item Demostrar usando diversas técnicas, entre ellas inducción en $\cL(P)$
+    \item Aplicar conceptos de sintaxis y semántica proposicional, y consecuencia lógica
+\end{itemize}
+
+\subsection*{Pregunta 1: Sintaxis e inducción en $\cL(P)$}
+\input{p1}
+
+\subsubsection*{Solución P1.}
+\input{sol1}
+
+\newpage
+\subsection*{Pregunta 2: Semántica en $\cL(P)$ y equivalencia lógica}
+\input{p2}
+
+\subsubsection*{Solución P2.}
+\input{sol2}
+
+\newpage
+\subsection*{Pregunta 3: Consecuencia lógica en $\cL(P)$}
+\input{p3}
+
+\subsubsection*{Solución P3.}
+\input{sol3}
+
+
+\end{document}
+
+

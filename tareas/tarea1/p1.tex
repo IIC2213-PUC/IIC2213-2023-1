@@ -1,0 +1,41 @@
+
+
+\newcommand{\largo}{\text{la}}
+\newcommand{\nsf}{\text{nsf}}
+
+\textbf{Advertencia.} Para evitar confusiones, en esta pregunta considere el uso de paréntesis visto en la clase 0, es decir, no elimine paréntesis innecesarios.\medskip
+
+En clases definimos de informalmente el árbol sintáctico de una fórmula proposicional $\varphi$ como aquel tal que
+\begin{itemize}
+	\item su raíz es $\varphi$
+	\item cada nodo tiene como hijos a sus subfórmulas inmediatas
+	\item cada hoja es una variable proposicional
+\end{itemize}
+con la posibilidad de que existan nodos repetidos. Se define el número de subfórmulas de $\varphi$ como el número de nodos en su árbol sintáctico.
+% Dados dos strings $w_1$ y $w_2$, se dice que $w_1$ es un sub-string de $w_2$ si existen strings $u$ y $v$ tales que $u w_1 v = w_2$. Por ejemplo, \texttt{aa} es un sub-string de \texttt{bbaacb}, \texttt{caacc}, \texttt{bcaa} y \texttt{aa}. Dada una fórmula $\varphi$, la lista de sub-fórmulas de $\varphi$ se define como la lista de strings $\psi$ (posiblemente repetidos) tal que: $\psi$ es una fórmula y $\psi$ es un sub-string de $\varphi$. 
+Por ejemplo, para $((p \vee q) \to (p \wedge (\neg r)))$, el número de subfórmulas es 8, dado que su árbol sintáctico es 
+
+\begin{center}
+	\input{tkz:parse.tex}
+\end{center}
+
+% Por ejemplo, la siguiente es la lista de sub-fórmulas de $((p \vee q) \to (p \wedge (\neg r)))$:
+% $$((p \vee q) \to (p \wedge (\neg r))),\quad (p \vee q),\quad p,\quad q,\quad (p \wedge (\neg r)),\quad p,\quad (\neg r),\quad r$$
+% 	\begin{eqnarray*}
+% 	&&((p \vee q) \to (p \wedge (\neg r)))\\
+% 	&&(p \vee q)\\
+% 	&&p\\
+% 	&&q\\
+% 	&&(p \wedge (\neg r))\\
+% 	&&p\\
+% 	&&(\neg r)\\
+% 	&&r
+% 	\end{eqnarray*}
+\begin{enumerate}[label=(\alph*)]
+
+	\item Defina de manera inductiva la función $\nsf(\varphi)$ que retorna la cantidad de subfórmulas de $\varphi$.  Por ejemplo, $\nsf(((p \vee q) \to (p \wedge (\neg r)))) = 8$.
+
+	\item Defina $\largo(\alpha)$ como el largo de la fórmula proposicional $\alpha$, que cuenta cada símbolo y variable mencionado en $\alpha$. Por ejemplo, $\largo(((p \vee q) \to (p \wedge (\neg r))))=16$.
+    
+    \item Demuestre que para toda fórmula $\varphi$ se tiene que $\nsf(\varphi) \leq \largo(\varphi)$. 
+\end{enumerate}

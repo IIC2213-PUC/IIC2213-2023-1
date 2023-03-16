@@ -1,0 +1,15 @@
+%!TEX root = tarea1.tex
+
+Sea $\Sigma\subseteq\cL(P)$ un conjunto de cláusulas (i.e. disyunción de literales). Decimos que $\Sigma$ es \textit{redundante} si existe $\varphi\in\Sigma$ tal que $\Sigma\setminus\{\varphi\}\models\varphi$. Un conjunto $\Sigma'$ se dice un \textit{subconjunto no redundante equivalente} de $\Sigma$ si 
+\begin{enumerate}
+    \item $\Sigma'\subseteq\Sigma$,
+    \item $\text{models}(\Sigma')=\text{models}(\Sigma)$,
+    \item $\Sigma'$ no es redundante.
+\end{enumerate}
+\begin{enumerate}[label=(\alph*)]
+    \item Muestre que el conjunto $\Sigma=\{p\wedge q,p\vee q, \neg p\wedge\neg q\}$ tiene dos subconjuntos no redundantes equivalentes. Justifique.
+    \item Una cláusula $\varphi\in\Sigma$ es \textit{necesaria} en $\Sigma$ si pertenece a todos los subconjuntos no redundantes equivalentes de $\Sigma$. Demuestre que si una cláusula $\varphi$ es necesaria en $\Sigma$, entonces $\Sigma\setminus\{\varphi\}\not\models\varphi.$ %Demuestre que un conjunto de cláusulas $\Sigma$ tiene un único subconjunto no redundante equivalente si, y solo si, $\Sigma\equiv\Sigma_N$, donde
+    %$$\Sigma_N:=\{\varphi\in\Sigma\mid\varphi\text{ es necesaria en }\Sigma\}$$
+\end{enumerate}
+
+% Demuestre que existe una fórmula proposicional que no es equivalente a ninguna fórmula de Horn.
