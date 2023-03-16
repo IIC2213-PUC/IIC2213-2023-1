@@ -13,7 +13,7 @@ En clases definimos de informalmente el árbol sintáctico de una fórmula propo
 \end{itemize}
 con la posibilidad de que existan nodos repetidos. Se define el número de subfórmulas de $\varphi$ como el número de nodos en su árbol sintáctico.
 % Dados dos strings $w_1$ y $w_2$, se dice que $w_1$ es un sub-string de $w_2$ si existen strings $u$ y $v$ tales que $u w_1 v = w_2$. Por ejemplo, \texttt{aa} es un sub-string de \texttt{bbaacb}, \texttt{caacc}, \texttt{bcaa} y \texttt{aa}. Dada una fórmula $\varphi$, la lista de sub-fórmulas de $\varphi$ se define como la lista de strings $\psi$ (posiblemente repetidos) tal que: $\psi$ es una fórmula y $\psi$ es un sub-string de $\varphi$. 
-Por ejemplo, para $((p \vee q) \to (p \wedge (\neg r)))$, el número de subfórmulas es 8, dado que su árbol sintáctico es 
+Por ejemplo, para $((\neg(\neg p))\leftrightarrow ((\neg p)\wedge q))$, el número de subfórmulas es 8, dado que su árbol sintáctico es 
 
 \begin{center}
 	\input{tkz:parse.tex}
