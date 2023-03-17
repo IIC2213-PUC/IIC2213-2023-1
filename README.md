@@ -40,7 +40,7 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
 
 | Número | Tema | Fecha | Encargade | Material   |
 | --- | --- | --- | --- | --- |
-| 1 | Lógica proposicional y consecuencia lógica | 2023-03-17 | Julián García | aquí va el link |
+| 1 | Lógica proposicional y consecuencia lógica | 2023-03-17 | Julián García | [Enunciado](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/ayudantias/Ayudantia1.pdf) |
 
 
 ## Equipo
