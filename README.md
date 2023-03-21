@@ -35,12 +35,13 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
 |---- | ------------------------------------------ | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
 | 0 | Introducción y lógica proposicional | 2023-03-07 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class00%20-%20Introducci%C3%B3n%20y%20l%C3%B3gica%20proposicional.pdf) |
 | 1 | Bases de conocimiento y razonamiento | 2023-03-14 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class01%20-%20Bases%20de%20conocimiento%20y%20razonamiento.pdf) |
+| 2 | SAT y resolución | 2023-03-21 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class02%20-%20SAT%20y%20resoluci%C3%B3n.pdf) |
 
   ## Ayudantías
 
-| Número | Tema | Fecha | Encargade | Material   |
-| --- | --- | --- | --- | --- |
-| 1 | Lógica proposicional y consecuencia lógica | 2023-03-17 | Julián García | [Enunciado](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/ayudantias/Ayudantia1.pdf) |
+| Número | Tema | Fecha | Encargade | Enunciado   | Solución |
+| --- | --- | --- | --- | --- | -- |
+| 1 | Lógica proposicional y consecuencia lógica | 2023-03-17 | Julián García | [Enunciado](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/ayudantias/Ayudantia1.pdf) | [Solución](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/ayudantias/Ayudantia_1-Solucion.pdf) |
 
 
 ## Equipo
