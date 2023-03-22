@@ -53,6 +53,8 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
 | Sebastián Hagedorn | Ayudante   | shagedorn@uc.cl | |
 | Julián García | Ayudante   | jgarcg@uc.cl | |
 | Matías Fernandez | Ayudante   | matias.fernandez@uc.cl | |
+| Pavel Medina | Ayudante | aamedina@uc.cl | |
+| Felipe Valenzuela | Ayudante | frvalenzuela@uc.cl | |
 
 ## Evaluación
 
