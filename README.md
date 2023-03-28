@@ -28,6 +28,13 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
   - [Enunciado](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/tareas/tarea1.pdf)
   - [Template](https://github.com/IIC2213-PUC/IIC2213-2023-1/tree/main/tareas/tarea1)
   - Pauta (Próximamente)
+- T2
+  - Contenidos: Satisfacibilidad, resolución proposicional y máquinas de Turing deterministas
+  - Clases requeridas: 2 y 3
+  - [Enunciado](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/tareas/tarea2.pdf)
+  - [Template](https://github.com/IIC2213-PUC/IIC2213-2023-1/tree/main/tareas/tarea2)
+  - Simulador de máquinas de Turing: [aquí](https://turingmachinesimulator.com/)
+  - Pauta (Próximamente)
 
 ## Clases
 
