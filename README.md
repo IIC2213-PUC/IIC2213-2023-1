@@ -49,7 +49,9 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
 
 | Número | Tema | Fecha | Encargade | Enunciado   | Solución |
 | --- | --- | --- | --- | --- | -- |
-| 1 | Lógica proposicional y consecuencia lógica | 2023-03-17 | Julián García | [Enunciado](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/ayudantias/Ayudantia1.pdf) | [Solución](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/ayudantias/Ayudantia_1-Solucion.pdf) |
+| 1 | Lógica proposicional y consecuencia lógica | 2023-03-17 | Julián García | [Enunciado](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/ayudantias/Ayudantia1.pdf) | [Solución](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/ayudantias/Ayudantia_1_Solucion.pdf) |
+| 2 | Satisfacibilidad y resolución | 2023-03-24 | Matías Fernández | [Enunciado](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/ayudantias/Ayudantia2.pdf) | [Solución](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/ayudantias/Ayudantia2_Sol.pdf) |
+| 3 | Máquinas de Turing | 2023-03-31 | Matías Fernández | [Enunciado](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/ayudantias/Ayudantia3.pdf) | [Solución](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/ayudantias/Ayudantia3_Sol.pdf) |
 
 
 ## Equipo
@@ -60,7 +62,7 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
 | Sofía Errázuriz | Ayudante coordinadora  | sofiaerrazurizm@uc.cl | |
 | Sebastián Hagedorn | Ayudante   | shagedorn@uc.cl | |
 | Julián García | Ayudante   | jgarcg@uc.cl | |
-| Matías Fernandez | Ayudante   | matias.fernandez@uc.cl | |
+| Matías Fernandez | Ayudante   | matias.fernandez@uc.cl | [@Wh4rp](https://github.com/Wh4rp)|
 | Pavel Medina | Ayudante | aamedina@uc.cl | |
 | Felipe Valenzuela | Ayudante | frvalenzuela@uc.cl | |
 
