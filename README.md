@@ -59,7 +59,7 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
 | Nombre  | Cargo | Email | Github |
 | -------------- | ------ | ---------------- | ----------- |
 | Sebastián Bugedo | Profe  | bugedo@uc.cl | [@seba-bug](https://github.com/seba-bug) |
-| Sofía Errázuriz | Ayudante coordinadora  | sofiaerrazurizm@uc.cl | |
+| Sofía Errázuriz | Ayudante coordinadora  | sofiaerrazurizm@uc.cl | [@sofiaemd](https://github.com/sofiaemd) |
 | Sebastián Hagedorn | Ayudante   | shagedorn@uc.cl | |
 | Julián García | Ayudante   | jgarcg@uc.cl | |
 | Matías Fernandez | Ayudante   | matias.fernandez@uc.cl | [@Wh4rp](https://github.com/Wh4rp)|
