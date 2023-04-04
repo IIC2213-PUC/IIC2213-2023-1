@@ -44,6 +44,7 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
 | 1 | Bases de conocimiento y razonamiento | 2023-03-14 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class01%20-%20Bases%20de%20conocimiento%20y%20razonamiento.pdf) |
 | 2 | SAT y resolución | 2023-03-21 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class02%20-%20SAT%20y%20resoluci%C3%B3n.pdf) |
 | 3 | Máquinas de Turing | 2023-03-28 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class03%20-%20M%C3%A1quinas%20de%20Turing.pdf) |
+| 4 | Reducciones y clases de complejidad | 2023-04-04 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class04%20-%20Reducciones%20y%20clases%20de%20complejidad.pdf) |
 
   ## Ayudantías
 
