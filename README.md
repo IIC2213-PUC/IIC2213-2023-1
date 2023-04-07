@@ -87,7 +87,7 @@ Habrá 7 tareas que buscan evaluar el avance de los contenidos del curso. Estas 
 | Evaluación | Fecha Publicacion  | Fecha Entrega        | Plazo (días completos) |
 | --------- | ----------------- | -----------------   |  -- |
 | Tarea 1    | Martes 14 de marzo | Lunes 27 de marzo    | 13 |
-| Tarea 2    | Martes 28 de marzo | Miércoles 5 de abril | 8 |
+| Tarea 2    | Martes 28 de marzo | Viernes 7 de abril | 10 |
 | Tarea 3    | Martes 11 de abril | Martes 25 de abril   | 14 |
 | Tarea 4    | Martes 9 de mayo   | Lunes 22 de mayo     | 13 |
 | Tarea 5    | Martes 23 de mayo  | Lunes 5 de junio     | 13 |
