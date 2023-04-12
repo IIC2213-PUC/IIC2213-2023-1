@@ -1,0 +1,58 @@
+\begin{enumerate}
+	\item[(a)] Considere el siguiente lenguaje
+	$$A=\{(\eM,w)\mid \eM\text{ es una TM determinista tal que }\eM\text{ acepta }w\}$$
+	Note que este lenguaje es similar, pero no idéntico a $H$ visto en clases, pues $A$ habla de aceptar $w$ y no solo de detenerse como lo hace $H$. Para demostrar que $A$ es indecidible, supongamos que es decidible y por ende existe una máquina $\eM_A$ que lo decide. Usando $\eM_A$, se puede construir una máquina $\eD$ que decide $H$, obteniendo una contradicción. A continuación se presenta la estructura de $\eD$ que decide $H$
+
+
+	\begin{center}
+		\begin{tikzpicture}
+			\begin{scope}[fill opacity = 0.5,text opacity=1]
+
+				\node at (0, 0) (W) {$w'$};
+				\node [draw,
+					minimum width=1.5cm,
+					minimum height=0.7cm,
+					right=1cm of W
+				]  (F) {¿$w'=(\eM,w)$?};
+				\node [draw,
+					minimum width=2cm,
+					minimum height=2cm,
+					below right=0.5cm and 0cm of F,
+				]  (M) {$\eM_A$};
+
+				\node at ($(F)+(0,-1.4)$) (W2) {$\eX$};
+
+				\node at ($(W)+(8.5,0)$) (R1) {rechaza};
+				\node at ($(R1)+(0,-1.3)$) (R2) {acepta};
+				\node at ($(R2)+(0,-1)$) (A) {rechaza};
+				
+				\draw[-stealth] (W) -- (F);
+				\draw[-stealth] (F) -- (W2) node[pos=0.4,left] {sí};
+				\draw[-stealth] (F) -- (R1) node[pos=0.15,above] {no};
+				\draw[-stealth] (W2) |- (M);
+
+				\draw[draw=none] (M.north east) -- (M.south east) node (rightline) [above] {};
+
+				\draw[-stealth] (R2.west -| rightline) -- (R2) node[pos=0.35,above] {acepta};
+				\draw[-stealth] (A.west -| rightline) -- (A) node[pos=0.35,above] {rechaza};
+
+
+				\begin{scope}[on background layer]
+					\draw[even odd rule] ($(F.north west)+(-0.5,0.5)$) rectangle ($(M.south east) + (1.5,-0.5)$);
+					\node at ($(F.south west)+(0,-2.5)$) (U) {$\eD$};
+				\end{scope}
+			
+			\end{scope}
+			\end{tikzpicture}
+	\end{center}
+	\begin{enumerate}
+		\item[(i)] Dé una descripción de la máquina que queda codificada en $\eX$ y que se alimenta a $\eM_A$. Puede ser un diagrama o una descripción con palabras. Si hace un diagrama, puede hacerlo a mano e incluirlo como foto, no es necesario usar la librería \texttt{tikz}.
+		\item[(ii)] Demuestre que la máquina $\eD$ decide $H$. 
+	\end{enumerate}
+
+	\item[(b)] Un lenguaje indecidible conocido es 
+	$$L_1=\{(\eM)\mid \eM\text{ es una TM determinista tal que }L(\eM)=\varnothing\}$$
+	Mediante reducción desde $L_1$, demuestre que el siguiente lenguaje también es indecidible 
+	$$L_2=\{(\eM_1,\eM_2)\mid \eM_1,\eM_2\text{ son TM deterministas tales que }L(\eM_1)=L(\eM_2)\}$$
+
+\end{enumerate}

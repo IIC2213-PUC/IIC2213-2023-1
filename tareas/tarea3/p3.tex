@@ -1,0 +1,27 @@
+\begin{enumerate}
+    \item[(a)] Demuestre que si $L_1\leq_p L_2$ y $L_2\leq_p L_3$, entonces $L_1\leq_p L_3$.
+    \item[(b)]  Dada una matriz de enteros $A$ de $n\times m$ y un vector $\vec{b}$ de $n$ enteros, el problema de \textit{programación entera} en su versión de problema de decisión consiste en verificar si existe un vector $\vec{x}$ de $m$ enteros tal que $A\vec{x}\leq \vec{b}$. Por ejemplo, el siguiente es un problema de programación entera para el cual el vector $\vec{x}=(1,1)$ es adecuado
+    $$
+    \begin{bmatrix}
+        -1 & 0\\
+        0 & -1\\
+        1 & 1
+        \end{bmatrix}
+        \cdot
+    \begin{bmatrix}
+        x_1\\
+        x_2
+        \end{bmatrix}
+        \leq
+    \begin{bmatrix}
+        -1\\
+        0\\
+        3
+        \end{bmatrix}
+    $$
+    
+    Como lenguaje, lo definimos por 
+    $$\textsc{PE}=\{(A,\vec{b}\,)\mid A\text{ de }n\times m,\ \vec{b}\text{ de }n\times 1\text{ y existe vector }\vec{x}\text{ de }m\times 1\text{  tal que }A\vec{x}\leq \vec{b}\}$$
+    Demuestre que $\textsc{3SAT}\leq_p \textsc{PE}$.
+
+\end{enumerate}
