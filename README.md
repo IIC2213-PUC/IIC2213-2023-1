@@ -35,6 +35,12 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
   - [Template](https://github.com/IIC2213-PUC/IIC2213-2023-1/tree/main/tareas/tarea2)
   - Simulador de máquinas de Turing: [aquí](https://turingmachinesimulator.com/)
   - Pauta (Próximamente)
+- T3
+  - Contenidos: Lenguajes indecidibles, clases R y RE, reducciones polinomiales
+  - Clases requeridas: 4 y 5
+  - [Enunciado](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/tareas/tarea3.pdf)
+  - [Template](https://github.com/IIC2213-PUC/IIC2213-2023-1/tree/main/tareas/tarea3)
+  - Pauta (Próximamente)
 
 ## Clases
 
