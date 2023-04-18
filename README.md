@@ -52,6 +52,7 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
 | 3 | Máquinas de Turing | 2023-03-28 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class03%20-%20M%C3%A1quinas%20de%20Turing.pdf) |
 | 4 | Reducciones y clases de complejidad | 2023-04-04 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class04%20-%20Reducciones%20y%20clases%20de%20complejidad.pdf) |
 | 5 | Clases de complejidad decidibles | 2023-04-11 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class05%20-%20Clases%20de%20complejidad%20decidibles.pdf) |
+| 6 | No determinismo y clase NP | 2023-04-18 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class06%20-%20No%20determinismo%20y%20clase%20NP.pdf) |
 
   ## Ayudantías
 
