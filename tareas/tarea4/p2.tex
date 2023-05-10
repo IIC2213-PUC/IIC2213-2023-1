@@ -1,0 +1,13 @@
+En un grafo dirigido $G=(N,A)$, un camino dirigido de $n$ nodos es una secuencia $u_0,\ldots,u_n$ tal que
+\begin{itemize}
+    \item $u_i\in N$, para todo $0\leq i\leq n$
+    \item $(u_i,u_{i+1})\in A$, para todo $0\leq i < n$
+\end{itemize}
+Un ciclo simple dirigido de $n$ nodos es un camino dirigido tal que $u_0=u_n$ y todos los demás nodos deben ser distintos.\medskip
+
+Sea el vocabulario $\cL=\{E\}$ con símbolo de relación binaria $E$. Construya $\cL$-oraciones en lógica de primer orden que representen las siguientes propiedades. 
+\begin{enumerate}
+    \item[(a)] El grafo es un clique. Utilice para esto la noción de clique dirigido en que deben existir todas las aristas dirigidas posibles.
+    \item[(b)] El grafo contiene un ciclo simple dirigido de 3 nodos.
+\end{enumerate}
+Observe que cada oración deben ser satisfecha por una $\cL$-estructura $\mathfrak{A}$ si, y solo si, el grafo representado por $\mathfrak{A}$ cumple la propiedad modelada con dicha oración.
