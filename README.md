@@ -41,7 +41,7 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
   - [Enunciado](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/tareas/tarea3.pdf)
   - [Template](https://github.com/IIC2213-PUC/IIC2213-2023-1/tree/main/tareas/tarea3)
   - Pauta (Próximamente)
-- T3
+- T4
   - Contenidos: NP-completitud, fórmulas y estructuras en lógica de primer orden
   - Clases requeridas: 6, 7 y 8
   - [Enunciado](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/tareas/tarea4.pdf)
