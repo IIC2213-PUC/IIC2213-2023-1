@@ -60,7 +60,8 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
 | 5 | Clases de complejidad decidibles | 2023-04-11 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class05%20-%20Clases%20de%20complejidad%20decidibles.pdf) |
 | 6 | No determinismo y clase NP | 2023-04-18 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class06%20-%20No%20determinismo%20y%20clase%20NP.pdf) |
 | 7 | NP completitud y alcances de NP | 2023-04-25 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class07%20-%20NP%20completitud%20y%20alcances%20de%20NP.pdf) |
-| 6 | Lógica de primer orden | 2023-05-09 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class08%20-%20L%C3%B3gica%20de%20primer%20orden.pdf) |
+| 8 | Lógica de primer orden | 2023-05-09 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class08%20-%20L%C3%B3gica%20de%20primer%20orden.pdf) |
+| 9 | Decidibilidad y definibilidad | 2023-05-16 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class09%20-%20Decidibilidad%20y%20definibilidad.pdf) |
 
   ## Ayudantías
 
