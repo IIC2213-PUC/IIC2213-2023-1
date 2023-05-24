@@ -47,6 +47,12 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
   - [Enunciado](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/tareas/tarea4.pdf)
   - [Template](https://github.com/IIC2213-PUC/IIC2213-2023-1/tree/main/tareas/tarea4)
   - Pauta (Próximamente)
+- T5
+  - Contenidos: complejidad de lenguajes en LPO, isomorfismo de estructuras y definibilidad
+  - Clases requeridas: 9 y 10
+  - [Enunciado](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/tareas/tarea5.pdf)
+  - [Template](https://github.com/IIC2213-PUC/IIC2213-2023-1/tree/main/tareas/tarea5)
+  - Pauta (Próximamente)
 
 ## Clases
 
