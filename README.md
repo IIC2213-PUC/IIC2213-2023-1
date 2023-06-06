@@ -70,6 +70,7 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
 | 9 | Decidibilidad y definibilidad | 2023-05-16 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class09%20-%20Decidibilidad%20y%20definibilidad.pdf) |
 | 10 | Compacidad y aplicaciones | 2023-05-23 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class10%20-%20Compacidad%20y%20aplicaciones.pdf) |
 | 11 | Modelos no estándar y sistema de Hilbert | 2023-05-30 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class11%20-%20Modelos%20no%20est%C3%A1ndar%20y%20consultas.pdf) |
+| 12 | Teorías | 2023-06-06 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class12%20-%20Teor%C3%ADas.pdf) |
 
   ## Ayudantías
 
