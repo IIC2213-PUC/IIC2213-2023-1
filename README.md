@@ -102,7 +102,7 @@ Habrá un único examen escrito que busca evaluar los contenidos esenciales del 
 
 | Evaluación | Fecha |
 | -------------- | --------- |
-| Examen | 3 de julio (9:00) |
+| Examen | 12 de julio (15:30) |
 
 ### Tareas
 
