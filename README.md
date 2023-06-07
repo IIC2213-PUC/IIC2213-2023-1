@@ -53,6 +53,12 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
   - [Enunciado](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/tareas/tarea5.pdf)
   - [Template](https://github.com/IIC2213-PUC/IIC2213-2023-1/tree/main/tareas/tarea5)
   - Pauta (Próximamente)
+- T6
+  - Contenidos: aplicación de LPO a bases de datos, teorías y teorías completas
+  - Clases requeridas: 8 y 12
+  - [Enunciado](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/tareas/tarea6.pdf)
+  - [Template](https://github.com/IIC2213-PUC/IIC2213-2023-1/tree/main/tareas/tarea6)
+  - Pauta (Próximamente)
 
 ## Clases
 
