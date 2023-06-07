@@ -1,0 +1,44 @@
+Sea $\mathcal{L}=\{R_1,\ldots,R_k\}$ un vocabulario relacional, i.e. que solo contiene símbolos de relaciones. Una $\mathcal{L}$-fórmula se dice \textbf{consulta conjuntiva} si es de la forma
+\begin{center}
+	$\displaystyle{\varphi(x_1,\ldots,x_n)=\exists z_1\cdots \exists z_m\bigwedge_{1\leq i\leq k}R_i(\bar{y}_i)}$
+\end{center}
+donde $\bar{y}_i$ es una tupla de variables en $\{x_1,\ldots,x_n\}\cup\{z_1,\ldots z_m\}$ y cuyo largo es igual a la aridad de $R_i$.\medskip
+
+Para una $\mathcal{L}$-estructura $\mathfrak{A}$ con dominio $A$ y una consulta conjuntiva $\varphi(x_1,\ldots,x_n)$ sobre el mismo vocabulario, se define la evaluación de $\varphi$ en $\mathfrak{A}$ como la relación
+\begin{center}
+	$\varphi(\mathfrak{A})=\{(a_1,\ldots,a_n)\in A^n\mid \mathfrak{A}\models\varphi(a_1,\ldots,a_n)\}$
+\end{center}
+El resultado puede visualizarse como las tuplas entregadas por una consulta a una base de datos cuyas tablas están representadas por la interpretación $R_i^\mathfrak{A}$ de cada relación. Cuando la consulta es una $\mathcal{L}$-oración, le llamamos \textbf{consulta conjuntiva booleana} y su evaluación $\varphi(\mathfrak{A})$ es simplemente verdadera o falsa e indica si $\mathfrak{A}\models\varphi$. Además, una \textbf{consulta conjuntiva completa} es aquella que no tiene variables cuantificadas, i.e. son todas libres.\medskip
+
+Para los incisos (a), (b) y (c), considere $\mathcal{L}=\{R,S\}$ con $R$ y $S$ símbolos de relaciones binaria y ternaria, respectivamente. Sea además una estructura $\mathfrak{A}=\langle A,R^\mathfrak{A},S^\mathfrak{A}\rangle$ tal que 
+	\begin{center}
+		\begin{tabular}{ll}
+			\multicolumn{2}{c}{$R^\mathfrak{A}$}                    \\ \hline
+			\multicolumn{1}{l|}{Petrushka}             & Stravinsky \\
+			\multicolumn{1}{l|}{L'Amour de loin}       & Saariaho   \\
+			\multicolumn{1}{l|}{El amor brujo}         & De Falla   \\
+			\multicolumn{1}{l|}{Le sacre du printemps} & Stravinsky
+			\end{tabular}\hspace{2ex}
+		\begin{tabular}{lll}
+			\multicolumn{3}{c}{$S^\mathfrak{A}$}                                           \\ \hline
+			\multicolumn{1}{l|}{Saariaho}   & \multicolumn{1}{l|}{Finlandia} & Helsinki    \\
+			\multicolumn{1}{l|}{Stravinsky} & \multicolumn{1}{l|}{Rusia}     & Oranienbaum \\
+			\multicolumn{1}{l|}{Sibelius}   & \multicolumn{1}{l|}{Finlandia} & Hämeenlinna \\
+			\multicolumn{1}{l|}{Respighi}   & \multicolumn{1}{l|}{Italia}    & Bologna    \\
+			\multicolumn{1}{l|}{Albéniz}   & \multicolumn{1}{l|}{España}    & Camprodon    
+			\end{tabular}
+	\end{center}
+\begin{enumerate}
+	\item[(a)] Construya una consulta conjuntiva que entregue la siguiente evaluación 
+	\begin{center}
+		$\varphi(\mathfrak{A})=\{(\text{Petrushka},\text{Rusia}),(\text{L'Amour de loin},\text{Finlandia}),(\text{Le sacre du printemps},\text{Rusia})\}$
+	\end{center}
+	\item[(b)] Construya una consulta conjuntiva completa en $\mathfrak{A}$ e indique su resultado.
+	\item[(c)] Contruya una consulta conjuntiva booleana que sea verdadera en $\mathfrak{A}$.
+\end{enumerate}
+Dado un vocabulario relacional $\mathcal{L}=\{R,S\}$ con símbolos de relaciones $R$ y $S$ de aridad $n$ y $m$ respectivamente, y dada una $\mathcal{L}$-estructura $\mathfrak{A}=\langle A, R^\mathfrak{A}, S^\mathfrak{A}\rangle$, decida si es posible construir consultas conjuntivas que entreguen como evaluación los conjuntos de los incisos (d), (e) y (f). En caso negativo, justifique qué le falta a la definición de consultas conjuntivas y proponga una extensión adecuada.
+\begin{enumerate}
+	\item[(d)] Proyección de la $i$-ésima columna de $R^\mathfrak{A}$: conjunto con los valores de la $i$-ésima coordenada de las tuplas de $R^\mathfrak{A}$ (sin repetidos).
+	\item[(e)] Selección por valor de la $i$-ésima columna de $R^\mathfrak{A}$: conjunto de tuplas de $R^\mathfrak{A}$ tales que el valor de la $i$-ésima coordenada es exactamente $v\in A$, para $v$ fijo.
+	\item[(f)] \textit{Cross join} de $R^\mathfrak{A}$ y $S^\mathfrak{A}$: conjunto de tuplas de tamaño $n+m$ tales que las primeras $n$ coordenadas corresponden a alguna tupla de $R^\mathfrak{A}$, y las últimas $m$ a alguna tupla de $S^\mathfrak{A}$.
+\end{enumerate}
