@@ -78,7 +78,7 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
 | 11 | Modelos no estándar y sistema de Hilbert | 2023-05-30 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class11%20-%20Modelos%20no%20est%C3%A1ndar%20y%20consultas.pdf) |
 | 12 | Teorías | 2023-06-06 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class12%20-%20Teor%C3%ADas.pdf) |
 | 13 | Teorías decidibles | 2023-06-13 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class13%20-%20Teor%C3%ADas%20decidibles.pdf) |
-| 13 | Incompletitud y segundo orden | 2023-06-20 | [Láminas]() |
+| 14 | Incompletitud y segundo orden | 2023-06-20 | [Láminas](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/clases/class14%20-%20Incompletitud%20y%20segundo%20orden.pdf) |
 
   ## Ayudantías
 
