@@ -59,6 +59,11 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
   - [Enunciado](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/tareas/tarea6.pdf)
   - [Template](https://github.com/IIC2213-PUC/IIC2213-2023-1/tree/main/tareas/tarea6)
   - Pauta (Próximamente)
+- T7
+  - Contenidos: repaso de lógica proposicional y NP-completitud
+  - [Enunciado](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/tareas/tarea7.pdf)
+  - [Template](https://github.com/IIC2213-PUC/IIC2213-2023-1/tree/main/tareas/tarea7)
+  - Pauta (Próximamente)
 
 ## Clases
 
