@@ -1,0 +1,10 @@
+
+\begin{enumerate}
+	\item[(a)] Sean $L_1,L_2$ dos lenguajes NP-completos. ¿Es $L_1\cap L_2$ NP-completo? Demuestre su respuesta.
+	\item[(b)] Sea $\mathcal{L}=\{E\}$ el vocabulario usual para grafos, i.e. $E$ es símbolo de relación binaria. Una $\mathcal{L}$-oración $\varphi$ se dice existencial si es de la forma $\varphi=\exists x_1\exists x_2\cdots \exists x_k\psi(x_1,x_2,\ldots,x_k)$, donce $\psi$ es una $\mathcal{L}$-fórmula sin cuantificadores y $k$ un entero positivo. Demuestre que el siguiente lenguaje es NP-hard
+	\begin{center}
+		$L=\{(\mathfrak{A},\varphi)\mid \varphi\text{ es }\mathcal{L}\text{-oración existencial y }\mathfrak{A}\text{ es }\mathcal{L}\text{-estructura finita tal que }\mathfrak{A}\models\varphi\}$
+	\end{center}
+	\textit{Sugerencia:} reduzca desde $\textsc{3-COL}$. \textit{Sugerencia 2:} dado un grafo, construya $\mathfrak{A}=\langle A,E^\mathfrak{A}\rangle$ para codificar la asignación de colores a pares de nodos vecinos, de forma que $A$ es el conjunto de colores y $E^\mathfrak{A}$ son pares de colores legales. ¿Cuántos elementos tiene $A$? ¿Qué pares de colores son ilegales en una 3-coloración y no están dentro de $E^\mathfrak{A}$? La oración existencial debe intentar hacer match con pares de colores para cada arista del grafo original.
+
+\end{enumerate}
