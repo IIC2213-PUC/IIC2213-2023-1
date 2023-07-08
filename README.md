@@ -27,43 +27,43 @@ Bienvenidos al sitio web del curso de Lógica para ciencia de la computación. E
   - Clases requeridas: 0 y 1
   - [Enunciado](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/tareas/tarea1.pdf)
   - [Template](https://github.com/IIC2213-PUC/IIC2213-2023-1/tree/main/tareas/tarea1)
-  - Pauta (Próximamente)
+  - [Pauta](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/Pautas/Pauta%20tarea%201.pdf)
 - T2
   - Contenidos: Satisfacibilidad, resolución proposicional y máquinas de Turing deterministas
   - Clases requeridas: 2 y 3
   - [Enunciado](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/tareas/tarea2.pdf)
   - [Template](https://github.com/IIC2213-PUC/IIC2213-2023-1/tree/main/tareas/tarea2)
   - Simulador de máquinas de Turing: [aquí](https://turingmachinesimulator.com/)
-  - Pauta (Próximamente)
+  - [Pauta](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/Pautas/Pauta%20tarea%202.pdf)
 - T3
   - Contenidos: Lenguajes indecidibles, clases R y RE, reducciones polinomiales
   - Clases requeridas: 4 y 5
   - [Enunciado](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/tareas/tarea3.pdf)
   - [Template](https://github.com/IIC2213-PUC/IIC2213-2023-1/tree/main/tareas/tarea3)
-  - Pauta (Próximamente)
+  - [Pauta](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/Pautas/Pauta%20tarea%203.pdf)
 - T4
   - Contenidos: NP-completitud, fórmulas y estructuras en lógica de primer orden
   - Clases requeridas: 6, 7 y 8
   - [Enunciado](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/tareas/tarea4.pdf)
   - [Template](https://github.com/IIC2213-PUC/IIC2213-2023-1/tree/main/tareas/tarea4)
-  - Pauta (Próximamente)
+  - [Pauta](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/Pautas/Pauta%20tarea%204.pdf)
 - T5
   - Contenidos: complejidad de lenguajes en LPO, isomorfismo de estructuras y definibilidad
   - Clases requeridas: 9 y 10
   - [Enunciado](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/tareas/tarea5.pdf)
   - [Template](https://github.com/IIC2213-PUC/IIC2213-2023-1/tree/main/tareas/tarea5)
-  - Pauta (Próximamente)
+  - [Pauta](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/Pautas/Pauta%20tarea%205.pdf)
 - T6
   - Contenidos: aplicación de LPO a bases de datos, teorías y teorías completas
   - Clases requeridas: 8 y 12
   - [Enunciado](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/tareas/tarea6.pdf)
   - [Template](https://github.com/IIC2213-PUC/IIC2213-2023-1/tree/main/tareas/tarea6)
-  - Pauta (Próximamente)
+  - [Pauta](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/Pautas/Pauta%20tarea%206.pdf)
 - T7
   - Contenidos: repaso de lógica proposicional y NP-completitud
   - [Enunciado](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/tareas/tarea7.pdf)
   - [Template](https://github.com/IIC2213-PUC/IIC2213-2023-1/tree/main/tareas/tarea7)
-  - Pauta (Próximamente)
+  - [Pauta](https://github.com/IIC2213-PUC/IIC2213-2023-1/blob/main/Pautas/Pauta%20tarea%207.pdf)
 
 ## Clases
 
